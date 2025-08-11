@@ -1,12 +1,10 @@
-Perfect — here’s the updated **README.md** with your live demo link included:
 
----
 
 # 📝 To-Do List App
 
 A modern, responsive, and interactive To-Do List web application with task tracking, progress visualization, and persistent local storage. Built using **HTML**, **CSS**, and **JavaScript**.
 
-![Preview](./images/tran.png)
+
 
 ---
 
@@ -83,10 +81,12 @@ Try the app here 👉 **[To-Do List App Live Demo](https://shakthistodolistapp.n
 
 ---
 
-## 📷 Screenshots
+## 📷 WORKING DEMO
 
 **Main Interface**
-![Main Interface](./images/wholebg.png)
+![Main Interface](<img width="1908" height="911" alt="image" src="https://github.com/user-attachments/assets/6debe8f8-825c-4ae8-8250-6e2f1ac22de4" />
+)
+
 
 ---
 
