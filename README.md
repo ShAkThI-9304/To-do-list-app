@@ -1,101 +1,93 @@
-
-
-# 🌸 Glassmorphism To-Do List App
-
-[![GitHub license](https://img.shields.io/github/license/ShAkThI-9304/To-Do-List-App?color=blue)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ShAkThI-9304/To-Do-List-App?style=social)](https://github.com/ShAkThI-9304/To-Do-List-App/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ShAkThI-9304/To-Do-List-App?style=social)](https://github.com/ShAkThI-9304/To-Do-List-App/network/members)
-[![Issues](https://img.shields.io/github/issues/ShAkThI-9304/To-Do-List-App)](https://github.com/ShAkThI-9304/To-Do-List-App/issues)
-
-A beautifully designed, responsive **To-Do List** web application featuring **glassmorphism UI**, **progress tracking**, and **confetti animations** when you complete all tasks.
-Your tasks are saved in **local storage**, so you can close and reopen the app without losing progress.
+Perfect — here’s the updated **README.md** with your live demo link included:
 
 ---
 
-## 🚀 Live Demo
+# 📝 To-Do List App
 
-🔗 **[Click here to try it now](https://shakthistodolistapp.netlify.app/)**
+A modern, responsive, and interactive To-Do List web application with task tracking, progress visualization, and persistent local storage. Built using **HTML**, **CSS**, and **JavaScript**.
 
----
-
-## 📸 Screenshots
-
-### 🏠 Main Interface
-
-![Main UI](./images/tran.png)
-
-### ✅ Task Progress Tracking
-
-![Progress Bar](./images/progress-example.png)
-
-### 🎉 Confetti Celebration
-
-![Confetti](./images/confetti-example.png)
+![Preview](./images/tran.png)
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-* 📝 **Add, edit, and delete** tasks easily
-* ✅ **Mark tasks as completed** with checkboxes
-* 📊 **Dynamic progress bar** showing completed vs total tasks
-* 🎉 **Confetti celebration** when all tasks are completed
-* 💾 **Local storage support** – tasks persist even after reload
-* 📱 **Responsive design** for mobile and desktop
-* 🌈 **Glassmorphism UI** with modern animations
+* **Add, Edit, and Delete Tasks** – Manage your daily activities with ease.
+* **Mark Tasks as Complete** – Toggle tasks between completed and pending states.
+* **Progress Bar** – Visual feedback on your task completion rate.
+* **Persistent Storage** – Saves tasks in `localStorage` so they remain after refresh.
+* **Confetti Celebration** – Enjoy a confetti animation when all tasks are completed.
+* **Responsive Design** – Works seamlessly on both desktop and mobile devices.
+
+---
+
+## 🌐 Live Demo
+
+Try the app here 👉 **[To-Do List App Live Demo](https://shakthistodolistapp.netlify.app/)**
 
 ---
 
 ## 📂 Project Structure
 
 ```
-📦 To-Do-List-App
- ┣ 📜 index.html       # Main HTML structure
- ┣ 📜 style.css        # Glassmorphism styles & layout
- ┣ 📜 script.js        # App logic, task management, and animations
- ┗ 📂 images           # UI assets
+├── index.html      # Main HTML file
+├── style.css       # Styling and layout
+├── script.js       # Application logic
+├── images/         # Image assets
+└── README.md       # Project documentation
 ```
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Structure
-* **CSS3** – Glassmorphism UI, responsive design
-* **JavaScript (ES6)** – Task management, local storage, animations
+* **HTML5** – Semantic structure
+* **CSS3** – Responsive layout & styling
+* **JavaScript (ES6)** – Interactive functionality
 * **Font Awesome** – Icons
-* **tsParticles Confetti** – Fun celebration effect
+* **tsparticles/confetti** – Confetti effect on completion
 
 ---
 
-## 📌 How to Use
+## 📦 Installation & Usage
 
-1. **Clone this repository**
+1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ShAkThI-9304/To-Do-List-App.git
-   cd To-Do-List-App
+   git clone https://github.com/yourusername/todo-list-app.git
    ```
-2. **Open `index.html`** in your browser.
-3. Start adding tasks!
+2. **Navigate into the project folder**
+
+   ```bash
+   cd todo-list-app
+   ```
+3. **Open `index.html` in your browser**
+   You can double-click it or use:
+
+   ```bash
+   open index.html   # macOS
+   start index.html  # Windows
+   xdg-open index.html # Linux
+   ```
 
 ---
 
-## 🌟 Future Improvements
+## 🎯 How to Use
 
-* 🔐 User authentication & cloud sync
-* 📅 Due dates & reminders
-* 🎨 More theme options
-
----
-
-## 🧑‍💻 Author
-
-**Shakthi B**
-📌 GitHub: [ShAkThI-9304](https://github.com/ShAkThI-9304)
+1. Type a task into the input field and click **➕** to add it.
+2. Click the **checkbox** to mark a task as complete.
+3. Click the **✏️ Edit** button to modify an unfinished task.
+4. Click the **🗑️ Delete** button to remove a task.
+5. Watch your **progress bar** fill up as you complete tasks.
+6. When all tasks are completed, enjoy the confetti animation 🎉.
 
 ---
 
-I noticed you don’t have **progress-example.png** and **confetti-example.png** yet.
-I can **design preview mockups from your actual app** so your README looks polished.
-Do you want me to make those images for you?
+## 📷 Screenshots
+
+**Main Interface**
+![Main Interface](./images/wholebg.png)
+
+---
+
+If you’d like, I can also add **badges** (e.g., Netlify deploy status, GitHub stars) to make your README look more professional and appealing on GitHub. That would make it stand out.
