@@ -14,13 +14,6 @@ Your data is **saved in the browser using Local Storage**, so tasks stay even af
 
 ---
 
-## 📸 Features Preview
-
-| Add Tasks                       | Track Progress                  | Celebrate Completion            |
-| ------------------------------- | ------------------------------- | ------------------------------- |
-| ![Feature 1](<img width="1911" height="902" alt="image" src="https://github.com/user-attachments/assets/38472595-9640-41ea-bf71-e8ef969af4ea" />) | ![Feature 2](<img width="1917" height="909" alt="image" src="https://github.com/user-attachments/assets/5d87e07a-1c65-4dfe-a6cf-480f220ee2b4" />) | ![Feature 3](<img width="1822" height="870" alt="image" src="https://github.com/user-attachments/assets/a5b9bbac-f160-41aa-bd6f-85aba4bec9c0" />) |
-
----
 
 ## ✨ Features
 
