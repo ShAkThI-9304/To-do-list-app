@@ -103,6 +103,7 @@ document.addEventListener("DOMContentLoaded", () => {
     taskInput.value = "";
     toggleEmptyState();
     updateProgress(checkCompletion);
+    saveTaskToLocalStorage();
   };
 
   addTaskBtn.addEventListener("click", () => addTask());
