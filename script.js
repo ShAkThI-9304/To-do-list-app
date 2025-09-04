@@ -138,3 +138,5 @@ const Confetti = () => {
     if (y <= 0.3) clearInterval(interval);
   }, 8);
 };
+
+//just a comment
